@@ -9,7 +9,8 @@
 https://powerful-headland-30847.herokuapp.com/
 
 ## Screenshot
-![Screen Shot 2022-05-24 at 5 27 25 PM](https://user-images.githubusercontent.com/94089960/170153202-ad5a0864-1677-41d0-b154-9da5900891a1.png)
+![Screen Shot 2022-05-24 at 5 24 55 PM](https://user-images.githubusercontent.com/94089960/170153828-b804561a-ed87-490c-a047-a43f1b952b6a.png)
+
 
 ## Dependencies
 - "compression": "^1.7.4",
