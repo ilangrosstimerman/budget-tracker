@@ -1,4 +1,4 @@
-# Tech Blog
+# Budget Tracker
 
 ## Built With
 - JS
